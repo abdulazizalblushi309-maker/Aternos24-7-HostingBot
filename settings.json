@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "czx309.aternos.me:33975",
+    "ip": "turbot.aternos.host",
     "port": 33975,
     "version": "",
     "try-creative": true
