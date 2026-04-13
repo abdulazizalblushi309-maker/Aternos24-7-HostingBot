@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "czx309.aternos.me",
     "port": 33975,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
