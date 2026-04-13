@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "czx309.aternos.me",
+    "ip": "74.220.48.0/24",
     "port": 33975,
     "version": "",
     "try-creative": true
